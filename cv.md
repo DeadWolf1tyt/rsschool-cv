@@ -19,6 +19,6 @@ Sample text.
 RS Schools Course «Javascript/Front-end.Stage 0» (in progress)
 ***
 ## Languages
-* Rassian: Native
-* Enlish: Basic
+* Russian: Native
+* English: Basic
 ***
