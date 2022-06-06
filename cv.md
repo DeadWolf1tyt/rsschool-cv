@@ -12,6 +12,7 @@ E-mail: deadwolftyt@gmail.com
 3. JavaScript Basic
 4. VS Code Basic
 5. Adobe Photoshop Basic
+
 ***
 
 ## Briefly About Myself:
