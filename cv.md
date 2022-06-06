@@ -13,7 +13,7 @@ E-mail: deadwolftyt@gmail.com
 5. Adobe Photoshop Basic
 ***
 ## Briefly About Myself:
-
+Sample text.
 ***
 ## Courses:
 RS Schools Course «Javascript/Front-end.Stage 0» (in progress)
