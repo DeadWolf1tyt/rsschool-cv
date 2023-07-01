@@ -9,8 +9,10 @@
 1. HTML5
 2. CSS
 3. JavaScript
-4. VS Code
-5. Adobe Photoshop
+4. TypeScript
+5. VS Code
+6. Git
+7. Figma
 
 ## Briefly About Myself:
 
