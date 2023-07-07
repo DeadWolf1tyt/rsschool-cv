@@ -1,1 +1,84 @@
+html {
+	scroll-behavior: smooth;
+	background: url(check_mark2.png), linear-gradient(0deg, rgba(253,255,227,1) 0%, rgb(192, 240, 174) 100%);
+	background-attachment: fixed;
+	background-size: 150px;
+}
+body {
+	width: 800px;
+	margin: 30px auto;
+	text-align: center;
+}
+header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.preview__image {
+	width: 300px;
+	border-radius: 20px;
+}
+ul {
+	padding-inline-start: 0px; /*уберает отступ списка*/
+	list-style-type: none; /*уберает точку списка*/
+}
+.nav {
+	width: 300px;
+	text-align: center;
+}
+.nav__list {
+	height: 250px;
+	padding: 0px 0px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.nav__bottom {
+	text-decoration: none;
+	padding: 10px;
+	border: 3px solid black;
+	border-radius: 15px;
+	font-size: 2em;
+	box-shadow: 0 0 10px 5px rgb(186, 186, 186);
+}
+.nav__bottom span {
+	color: black;
+	text-shadow: 3px 5px 6px rgb(84, 84, 84);
+}
+h1 {
+	text-shadow: 0 9px 9px rgb(229, 229, 229);
+}
+h2 {
+	text-shadow: 0 5px 6px rgb(221, 221, 221);
+}
+pre {
+	width: 300px;
+	margin: 0px 0px 0px 150px;
+	text-align: left;
+}
 
+.header,
+.contacts,
+.skill,
+.biography,
+.code,
+.project,
+.education,
+.course,
+.language,
+.footer {
+	margin: 10px;
+	padding: 10px;
+	background: url(check_mark3.png) #9d9d95;
+	/*прозрачный фон стенями очень эффектно выглядит*/
+	/* background-color: rgba(253,255,227,0); */
+	background-size: 50px;
+	border-radius: 10px;
+	box-shadow: 0 10px 55px rgb(0 0 0);
+}
+.footer {
+	padding: 10px 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
