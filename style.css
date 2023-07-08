@@ -40,6 +40,10 @@ ul {
 	border-radius: 15px;
 	font-size: 2em;
 	box-shadow: 0 0 10px 5px rgb(186, 186, 186);
+	transition: 0.7s;
+}
+.nav__bottom:hover {
+	background-color: rgb(186, 186, 186);
 }
 .nav__bottom span {
 	color: black;
